@@ -20,27 +20,27 @@ in this 21-day practise sequence.
 
 ## :information_source: Features
 
-- [x] Day01 - 
-- [x] Day02 - 
-- [x] Day03 - 
-- [x] Day04 - 
-- [x] Day05 - 
-- [x] Day06 - 
-- [x] Day07 - 
-- [x] Day08 - 
-- [x] Day09 - 
-- [x] Day10 - 
-- [x] Day11 - 
-- [x] Day12 - Exercitando Propriedades Simples – pt.1
-- [x] Day13 - Exercitando Propriedades Simples – pt.2
-- [x] Day14 - 
-- [x] Day15 - 
-- [x] Day16 - 
-- [x] Day17 - 
-- [x] Day18 - 
-- [x] Day19 - 
-- [x] Day20 - 
-- [x] Day21 - 
+- [ ] Day01 - 
+- [ ] Day02 - 
+- [ ] Day03 - 
+- [ ] Day04 - 
+- [ ] Day05 - 
+- [ ] Day06 - 
+- [ ] Day07 - 
+- [ ] Day08 - 
+- [ ] Day09 - 
+- [ ] Day10 - 
+- [ ] Day11 - 
+- [ ] Day12 - Exercitando Propriedades Simples – pt.1
+- [ ] Day13 - Exercitando Propriedades Simples – pt.2
+- [ ] Day14 - 
+- [ ] Day15 - 
+- [ ] Day16 - 
+- [ ] Day17 - 
+- [ ] Day18 - 
+- [ ] Day19 - 
+- [ ] Day20 - 
+- [ ] Day21 - 
 
 ### :rocket: Technologies
 
@@ -50,7 +50,7 @@ This project was developed as part of the [Desafio 21 Dias de P.O.O](https://www
 -  [Ado .Net](https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/ado-net-overview)
 
 <h1 align="center">
-  <img alt="API use" title="#API use" src="./challenge_21_days_oop_cSharp/images/oop.png" />
+  <img alt="Challenge 21 days [OOP] C#" title="#Challenge 21 days [OOP] C#Challenge_21_days_oop_cSharp" src="./challenge_21_days_oop_cSharp/blob/main/images/oop.png" />
 </h1>
 
 ## :memo: License
