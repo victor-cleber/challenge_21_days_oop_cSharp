@@ -50,7 +50,7 @@ This project was developed as part of the [Desafio 21 Dias de P.O.O](https://www
 -  [Ado .Net](https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/ado-net-overview)
 
 <h1 align="center">
-  <img alt="Challenge 21 days [OOP] C#" title="#Challenge 21 days [OOP] C#Challenge_21_days_oop_cSharp" src="./challenge_21_days_oop_cSharp/blob/main/images/oop.png" />
+  <img alt="Challenge 21 days [OOP] C#" title="#Challenge 21 days [OOP] C#Challenge_21_days_oop_cSharp" src="./blob/main/images/oop.png" />
 </h1>
 
 ## :memo: License
